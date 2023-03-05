@@ -1,2 +1,2 @@
 # Flashcards
-Flashcards for learning languages on kivy
+Flashcards for learning languages on kivy / python
